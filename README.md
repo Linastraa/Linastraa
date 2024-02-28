@@ -1,7 +1,10 @@
-<h1 align="center">Halloo I'm Sliman</h1>
-<h3 align="center">A Software testing trainee.</h3>
+<h1 align="center">Halloo there</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linastraa&label=Profile%20views&color=0e75b6&style=flat" alt="linastraa" /> </p>
+
+<h3 align="left">About me</h3>
+
+<h3 align="center">I'm Sliman, a Software testing trainee.</h3>
 
 - 🌱 I’m currently learning **Software testing at clarusway**
 
