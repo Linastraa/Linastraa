@@ -12,7 +12,7 @@
 - Code refactoring.
 
 <h1 align="left">Current Projects</h1>
-- 🌱 I’m currently learning Software testing at [clarusway](https://github.com/clarusway)
+- 🌱 I’m currently learning Software testing at clarusway
 
 
 
