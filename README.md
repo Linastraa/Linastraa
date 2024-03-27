@@ -5,6 +5,7 @@
 <h2 align="left">✍️ About me</h2>
 
 - I'm Sliman, a software development engineer in test.
+- Having a Bachelor's degree in Software Engineering from [University of Jeddah](https://www.uj.edu.sa/)
 - I like to spend my time finding and solving errors.
 
 <h2 align="left">☀️ Interests</h2>
