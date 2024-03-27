@@ -1,6 +1,6 @@
 <h1 align="center">Halloo there</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=linastraa&label=Profile%20views&color=0e75b6&style=flat" alt="linastraa" /> </p>
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Linastraa&label=Profile%20Views&color=8&icon=4&pretty=false" /></a>
 
 <h2 align="left">About me</h2>
 
@@ -55,7 +55,20 @@
   <a href="https://www.jenkins.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
 </div>
 
-###
+<h2 align="left">My stats:</h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linastraa&" alt="linastraa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linastraa&show_icons=true&locale=en&layout=compact" alt="linastraa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linastraa&show_icons=true&locale=en" alt="linastraa" /></p>
+
+<h2 align="left">Connect with me</h2>
+<p align="left">
+<a href="https://dev.to/linastra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="linastra" height="30" width="40" /></a>
+<a href="https://twitter.com/linastraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linastraa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sulaiman-a-alzahrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sulaiman-a-alzahrani" height="30" width="40" /></a>
+<a href="https://medium.com/@sulaimanaalzahrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sulaimanaalzahrani" height="30" width="40" /></a>
+<a href="https://discord.gg/linastra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="linastra" height="30" width="40" /></a>
+</p>
+
 
 
 
