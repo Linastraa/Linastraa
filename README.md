@@ -69,7 +69,7 @@
 <h3></h3>
 <p align="left">
 <a href="https://dev.to/linastra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="linastra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/sulaiman-a-alzahrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sulaiman-a-alzahrani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sulaiman-a-alzahrani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sulaiman-a-alzahrani" height="30" width="40" /></a>
 <a href="https://medium.com/@sulaimanaalzahrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sulaimanaalzahrani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23844446/linastraa" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="@sulaimanaalzahrani" height="30" width="40" /></a>
 <a href="mailto:sulaimanaalzahrani@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/new-post.png" height="30" width="40"/></a>
