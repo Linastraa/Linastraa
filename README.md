@@ -4,7 +4,7 @@
 
 <h2 align="left">✍️ About me</h2>
 
-- I'm Sliman, a Software testing trainee.
+- I'm Sliman, a software development engineer in test.
 - I like to spend my time finding and solving errors.
 
 <h2 align="left">☀️ Interests</h2>
