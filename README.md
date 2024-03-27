@@ -2,27 +2,24 @@
 
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Linastraa&label=Profile%20Views&color=8&icon=4&pretty=false" /></a>
 
-<h2 align="left">About me</h2>
+<h2 align="left">✍️ About me</h2>
 
 - I'm Sliman, a Software testing trainee.
 - I like to spend my time finding and solving errors.
 
-<h2 align="left">Interests</h2>
+<h2 align="left">☀️ Interests</h2>
 
 - Java and Python programming language.
 
 - Code refactoring.
 
-<h2 align="left">Previous Projects</h2>
+<h2 align="left">📁 My Projects</h2>
 
 - TrackMyLearn(SeniorProject) Developed an e-learning platform that uses eye tracking to solve the problem of students' preoccupation while attending online classes and save their privacy by hiding their camera from others in the classroom, the platform helps the instructor to know the level of the student's focus on the content and it automatically takes students' attendance based on their focus percentage.
-
-<h2 align="left">Current Projects</h2>
-
 - I’m currently learning Software testing at [clarusway](https://clarusway.com/)
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">💻 Languages and Tools:</h2>
 
 
 <div align="left">
@@ -55,19 +52,29 @@
   <a href="https://www.jenkins.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
 </div>
 
-<h2 align="left">My stats:</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linastraa&" alt="linastraa" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linastraa&show_icons=true&locale=en&layout=compact" alt="linastraa" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linastraa&show_icons=true&locale=en" alt="linastraa" /></p>
+<h2 align="left">📊 My GitHub stats:</h2>
 
-<h2 align="left">Connect with me</h2>
+![](https://github-readme-stats.vercel.app/api?username=linastraa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=linastraa&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=linastraa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<h2 align="left">🏆 My GitHub trophies:</h2>
+
+![](https://github-profile-trophy.vercel.app/?username=linastraa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+
+<h2 align="left">🌐 Connect with me</h2>
+🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
+<h3></h3>
 <p align="left">
 <a href="https://dev.to/linastra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="linastra" height="30" width="40" /></a>
-<a href="https://twitter.com/linastraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linastraa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/sulaiman-a-alzahrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sulaiman-a-alzahrani" height="30" width="40" /></a>
 <a href="https://medium.com/@sulaimanaalzahrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sulaimanaalzahrani" height="30" width="40" /></a>
-<a href="https://discord.gg/linastra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="linastra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23844446/linastraa" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="@sulaimanaalzahrani" height="30" width="40" /></a>
+<a href="mailto:sulaimanaalzahrani@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/new-post.png" height="30" width="40"/></a>
 </p>
+
 
 
 
