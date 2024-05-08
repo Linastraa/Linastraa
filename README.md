@@ -18,6 +18,7 @@
 
 - [TrackMyLearn(SeniorProject)](https://github.com/Mohammed-Albariqi/TrackMyLearn) Developed an e-learning platform that uses eye tracking to solve the problem of students' preoccupation while attending online classes and save their privacy by hiding their camera from others in the classroom, the platform helps the instructor to know the level of the student's focus on the content and it automatically takes students' attendance based on their focus percentage.
 - I’m currently learning Software testing at [clarusway](https://clarusway.com/)
+- [CapstoneProject](https://github.com/dev-osama-alharbi/SDA-Capstone-Project)
 
 
 <h2 align="left">💻 Languages and Tools:</h2>
